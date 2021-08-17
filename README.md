@@ -1,3 +1,7 @@
+idea need set project to jdk 8 instead of jdk 11(jetbrain runtime 11)
+
+-----
+
 # Spark-GBTLR
 [![Build Status](https://travis-ci.org/titicaca/spark-gbtlr.svg?branch=master)](https://travis-ci.org/titicaca/spark-gbtlr)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
